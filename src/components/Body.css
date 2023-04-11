@@ -1,3 +1,16 @@
+  @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
 .para{
-    height: 300px;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.para-container{
+    margin: 0%;
+    padding: 0%;
+    display: flex;
+    justify-content: center;
+    font-size: x-large;
+    margin-top: -20px;
+
 }
